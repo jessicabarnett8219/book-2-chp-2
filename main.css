@@ -1,0 +1,9 @@
+header {
+  border: 1px solid goldenrod;
+}
+
+header li {
+  display: inline-block;
+  list-style-type: none;
+  padding: 0px 10px 0px 10px;
+}
